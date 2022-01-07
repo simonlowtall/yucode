@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+    <IP></IP>
+    <UserName></UserName>
+    <PassWord></PassWord>
+    <client_id></client_id>
+    <client_secret></client_secret>
+    <token_url>https://iapi.wra.gov.tw/v3/oauth2/Token</token_url>
+    <iow_url>https://iapi.wra.gov.tw/v3/api/LatestData/Read/PhysicalQuantity/</iow_url>
+</Setting>
