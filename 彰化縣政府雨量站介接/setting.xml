@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+    <IP></IP>
+    <UserName></UserName>
+    <PassWord></PassWord>
+    <url>http://52.187.182.187:8080/api</url>
+</Setting>
