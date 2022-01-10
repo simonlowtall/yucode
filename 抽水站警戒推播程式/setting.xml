@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+    <url>http://localhost/WaterLevel/</url>
+    <tau>3600</tau>
+</Setting>
